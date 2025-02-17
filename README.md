@@ -23,7 +23,7 @@ In this repository, you will find a variety of SQL projects, including:
 
 3. [**Employee Distribution**](https://github.com/EileenIp): This repository contains valuable insights and visualizations derived from an extensive HR dataset spanning from 2000 to 2020, with over 22,000 rows. The data was meticulously cleaned and analyzed using PostgreSQL, and the results are beautifully visualized with Power BI. This comprehensive dashboard aims to answer crucial HR-related questions and shed light on various aspects of the organization's workforce.
 
-6. [**Operation Analytics and Investigating Metric Spike**](https://github.com/EileenIp): The project will cover a wide range of areas, including user engagement, sales performance, marketing effectiveness, and more. You'll be provided with access to datasets containing user information, events data, and email engagement details.
+6. [**Operation Analytics and Investigating Metric Spike**](https://github.com/EileenIp/Amazon-Advertising-Operational-Analytics-Study): The project will cover a wide range of areas, including user engagement, sales performance, marketing effectiveness, and more. You'll be provided with access to datasets containing user information, events data, and email engagement details.
 
 
 ## Repository Structure
